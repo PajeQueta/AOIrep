@@ -1,0 +1,1 @@
+export const urlBaseApi = 'http://169.254.122.200:18900'
